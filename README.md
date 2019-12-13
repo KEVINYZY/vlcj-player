@@ -38,6 +38,8 @@ Features
  - capture and display native logs
  - capture and display video surface debug messages (e.g. to test mouse and keyboard events still work)
  - volume controls
+ 
+ zd
  - mute
  - zoom/scale
  - aspect ratio
